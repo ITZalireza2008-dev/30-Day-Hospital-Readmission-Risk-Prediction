@@ -23,7 +23,7 @@ Using **SHAP (SHapley Additive exPlanations)**, the model uncovers the root beha
 4. **Primary Diagnosis Categories:** Circulatory and Endocrine/Metabolic conditions drive the highest clustering of early readmissions.
 
 ---
-## Main link to the data set published by U.S. Machine Learning Reposity
+## Main link to the data set published by U.S. Machine Learning Repository
 https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008
 
 ## 📂 Repository Structure
