@@ -26,16 +26,10 @@ Using **SHAP (SHapley Additive exPlanations)**, the model uncovers the root beha
 
 ## 📂 Repository Structure
 ```text
-hospital-readmission-ml/
+30-Day-Hospital-Readmission-Risk-Prediction/
 │
 ├── notebooks/
 │   └── hospital_readmission_pipeline.ipynb   # Complete end-to-end notebook (Cleaning, EDA, Modeling, SHAP)
+├── diabetic_data.csv
 │
-├── src/
-│   ├── __init__.py
-│   ├── preprocessing.py                      # Data cleaning and filtering pipelines
-│   └── features.py                           # Custom feature engineering modules
-│
-├── .gitignore
-├── requirements.txt
 └── README.md
